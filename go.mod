@@ -1,4 +1,4 @@
-module github.com/caddy-dns/vercel
+module github.com/thenbe/caddy-dns-vercel
 
 go 1.14
 
